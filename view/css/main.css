@@ -1,0 +1,38 @@
+/* index */ 
+#busca{
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 5px;
+    background-color: rgb(194, 64, 4);
+    font-size: 17px;
+    border-radius: 7px;
+    
+}
+#busca:hover{
+    background-color: rgb(136, 43, 0);
+    color: white;
+    font-size: 25px;
+    border-radius: 12px;
+    border: #8BC7FC solid 2px ;
+}
+.inicio{
+    background-color:#01233f;
+    width: 250px;
+    height: 275px;
+    border-radius: 15px;
+}
+/* -------------------------------------------------- */ 
+/* Medicamentos */ 
+.cad form{
+    background-color: #01233f;
+    height: 350px;
+    width: 300px;
+    color: snow;
+    border-radius: 25px;
+    padding-top: 15px;
+}
+.cad input[type="text"]{
+    border: none;
+    border-radius: 7px;
+    text-align: center;
+}
